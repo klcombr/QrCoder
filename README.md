@@ -74,5 +74,5 @@ Feel free to submit issues and pull requests.
 
 Created by Kauê Leandro Farias Monteiro
 
-- GitHub: [kmdev-cmd](https://github.com/kmdev-cmd/)
+- GitHub: [kmdev-cmd](https://github.com/klcombr/)
 - LinkedIn: [Kauê Leandro Farias Monteiro](https://www.linkedin.com/in/kau%C3%AA-leandro-farias-monteiro-80a9a13a2/)
